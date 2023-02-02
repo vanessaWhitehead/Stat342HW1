@@ -1,6 +1,6 @@
 ---
-title: "DS 202 - lab #1: working with git and github"
-author: "Heike Hofmann"
+title: "Stat 342 Homework 01"
+author: "Vanessa Whitehead, Chase Lovell, Jordan Pauly, Caroly Coronado-Vargas"
 ratio: 16x10
 output:
   rmdshower::shower_presentation:
@@ -11,10 +11,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-# Lab #1
-
-
 
 ## Overview
 
